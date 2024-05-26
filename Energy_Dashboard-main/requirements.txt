@@ -1,0 +1,6 @@
+pip==21.1.2 
+folium
+streamlit_folium
+plotly
+matplotlib
+openpyxl
